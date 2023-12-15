@@ -1,3 +1,3 @@
 #!/bin/sh
-cd /home/neville/.minecraft/launcher/
+cd ~/.minecraft/launcher/
 java -jar ./launcher.jar &
